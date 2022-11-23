@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Sounds
+  m_EditorClassIdentifier: 
+  m_GroupName: Sounds
+  m_Data:
+    m_SerializedData: []
+  m_GUID: c24db81e26d878c438e6a327f6278d63
+  m_SerializeEntries:
+  - m_GUID: 87ca4dc1d83b3c21e845160d233687ad
+    m_Address: goat-hit
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_mainAssetType: UnityEngine.AudioClip, UnityEngine.AudioModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_MainAsset: {fileID: 8300000, guid: 87ca4dc1d83b3c21e845160d233687ad, type: 3}
+    m_TargetAsset: {fileID: 8300000, guid: 87ca4dc1d83b3c21e845160d233687ad, type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 64888cb3ee4bfda8db2bc3417561d541, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 0cbeac0765b985f7c81137343e7eb08b, type: 2}
+    - {fileID: 11400000, guid: 29f33f788290d8c8ebfa44a05d5f3404, type: 2}

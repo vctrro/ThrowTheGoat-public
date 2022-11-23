@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Background Music
+  m_EditorClassIdentifier: 
+  m_GroupName: Background Music
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 8a64ed63b5b8f8762b56e9f9043190a0
+  m_SerializeEntries:
+  - m_GUID: 48461d663095e31208c0c0db61a09e0e
+    m_Address: music-MainMenu
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f6400c69a3a166d21bf76953d5cc2e2f
+    m_Address: music-L1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 64888cb3ee4bfda8db2bc3417561d541, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: cef602a13d208027685834253d5aa38a, type: 2}
+    - {fileID: 11400000, guid: 98124faf31444c60ba3c609c0e13dca3, type: 2}

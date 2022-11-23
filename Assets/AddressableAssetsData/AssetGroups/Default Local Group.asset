@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 0f0e03ac6f67852b1b15ad0de49037e8
+  m_SerializeEntries:
+  - m_GUID: 7519dabfecff08c08b53d77491c8cd95
+    m_Address: GameAudioMixer
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7560061117ba0822c80c7bdee89c2b5c
+    m_Address: FadeScreen
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 64888cb3ee4bfda8db2bc3417561d541, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 579c9394606028f20ad4f04a505b7725, type: 2}
+    - {fileID: 11400000, guid: 845169d2193489ce981bc8b0090ea8d2, type: 2}
